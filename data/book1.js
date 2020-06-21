@@ -9,7 +9,7 @@
     "textMeaning": "To agree is to have the same opinion or belief as another person",
     "textExample": "The students agree they have too much homework",
     "transcription": "[əgríː]",
-    "wordTranslate": "согласна",
+    "wordTranslate": "согласны",
     "textMeaningTranslate": "Согласиться - значит иметь то же мнение или убеждение, что и другой человек",
     "textExampleTranslate": "Студенты согласны, что у них слишком много домашней работы",
     "id": 1
